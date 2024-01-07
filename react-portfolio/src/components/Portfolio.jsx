@@ -4,17 +4,24 @@ function Portfolio() {
   // fill in the required data, image file should be in the assets/projects folder and name should match the "default as " statment in index.js
   const projects = [
     {
-      name: "project 1 test",
+      name: "Fitness App",
       description: "HTML/JS/CSS",
-      link: "https://heroku.com",
-      repo: "https://github.com/femke77",
+      link: "https://fitnessap-e27a7406884a.herokuapp.com/",
+      repo: "https://github.com/VishalManglani7/FitnessApp",
       image: "cat",
     },
     {
-      name: "project 2 test",
-      description: "NRG Stack",
+      name: "Front End Movie App",
+      description: "Front End",
       link: "https://heroku.com/",
-      repo: "https://github.com/femke77",
+      repo: "https://vishalmanglani7.github.io/project-1-front-end/",
+      image: "cat",
+    },
+    {
+      name: "Weather App",
+      description: "JS",
+      link: "https://vishalmanglani7.github.io/weather-app/",
+      repo: "https://github.com/VishalManglani7/weather-app",
       image: "cat",
     },
   ];
