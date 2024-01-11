@@ -9,7 +9,7 @@ function AboutMe() {
         </h2>
         <article id="aboutMeArticle">
           <div className="text">
-            <p>Text about me goes here</p>
+            <p>This is where my about me will go once I know what to write here!</p>
           </div>
         </article>
     </div>
