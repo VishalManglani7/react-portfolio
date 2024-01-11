@@ -73,3 +73,18 @@ h1 {
 footer {
   margin-top: auto;
 }
+
+
+/* This format is strictly for my avatar on about me page */
+.avatar {
+  width: 100px; 
+  height: 100px; 
+  border-radius: 50%;
+  margin-bottom: 20px; 
+}
+
+/* This format is for the cat image used on resume page */
+.p-img {
+  max-width: 75%; 
+  height: auto; 
+  border-radius: 10px;}
