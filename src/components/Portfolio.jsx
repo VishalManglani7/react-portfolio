@@ -1,7 +1,6 @@
 import Project from "./Project";
 
 function Portfolio() {
-  // fill in the required data, image file should be in the assets/projects folder and name should match the "default as " statment in index.js
   const projects = [
     
     {
